@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1lQ0QXqVdZ3eQpJJq_kBPqCcNldGQ9gvD/view?usp=sharing" width="150" height="150" style="border-radius: 50%;" alt="Youssef Alnahas" />
+  <img src="https://drive.google.com/uc?export=view&id=1lQ0QXqVdZ3eQpJJq_kBPqCcNldGQ9gvD" width="150" height="150" style="border-radius: 50%;" alt="Youssef Alnahas" />
 </p>
 
 <p align="center">
