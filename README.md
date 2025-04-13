@@ -1,5 +1,11 @@
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=33&pause=1000&color=F76413&center=true&vCenter=true&random=true&width=500&height=66&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef+Alnahas" alt="Typing SVG" /></a>
+  <img src="https://avatars.githubusercontent.com/u/116413663?v=4" width="150" height="150" style="border-radius: 50%;" alt="Youssef Alnahas" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=33&pause=1000&color=F76413&center=true&vCenter=true&random=true&width=500&height=66&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef+Alnahas" alt="Typing SVG" />
+  </a>
 </p>
 
 - 🔭 I’m currently working on [letschange](https://letschange.netlify.app/)
