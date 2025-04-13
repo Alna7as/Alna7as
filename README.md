@@ -1,8 +1,5 @@
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=33&pause=1000&color=F76413&center=true&vCenter=true&random=true&width=443&height=55&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef+Alnahas" alt="Typing SVG" />
-  </a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=33&pause=1000&color=F76413&center=true&vCenter=true&random=true&width=500&height=66&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef+Alnahas" alt="Typing SVG" /></a>
 </p>
 
 - 🔭 I’m currently working on [letschange](https://letschange.netlify.app/)
@@ -22,7 +19,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<!-- الأدوات زي ما انت كاتبهم -->
 <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/></a>
 <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
 <a href="https://azure.microsoft.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/></a>
