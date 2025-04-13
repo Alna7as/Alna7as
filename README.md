@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1lQ0QXqVdZ3eQpJJq_kBPqCcNldGQ9gvD" width="150" height="150" style="border-radius: 50%;" alt="Youssef Alnahas" />
+   <img src="https://raw.githubusercontent.com/alna7as/assets/main/profile-pic.png" width="150" height="150" style="border-radius: 50%; object-fit: cover;" alt="Youssef Alnahas" />
+
 </p>
 
 <p align="center">
