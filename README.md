@@ -61,22 +61,13 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p>
+<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alna7as&theme=2077" alt="Repos per language" />
-</p>
-
-<p>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alna7as&theme=2077" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alna7as&show_icons=true&locale=en&layout=compact" alt="alna7as" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alna7as&show_icons=true&locale=en" alt="alna7as" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alna7as&" alt="alna7as" />
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=alna7as&theme=dark&border_radius=18.6&locale=ar&short_numbers=true&date_format=n%2Fj%5B%2FY%5D&card_width=560&hide_total_contributions=true&hide_longest_streak=true" alt="GitHub Streak" />
+  </a>
 </p>
